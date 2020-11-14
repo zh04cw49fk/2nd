@@ -1,4 +1,3 @@
 Test string 01
 Test string 02
-New changes
-New changes @zx
+New changes @z
