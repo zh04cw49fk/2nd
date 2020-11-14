@@ -1,1 +1,2 @@
 Test string 01
+New string for test
